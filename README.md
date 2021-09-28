@@ -8,7 +8,7 @@
 - [ ] Klimafreundlichkeit/Klimaneutralität
 - [ ] Weniger Verbrennungsmotoren
 - [ ] Busse mit elekrischem Antrieb in den öffentlichen Verkehrsmitteln einsetzen
-- [ ] - [ ] Schadstoffe mit innovativen technologischen Hilfsmitteln zurückhalten
+- [ ] Schadstoffe mit innovativen technologischen Hilfsmitteln zurückhalten
 ---------------------------------------------------------------------------------
 
 
