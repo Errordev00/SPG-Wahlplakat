@@ -1,4 +1,4 @@
-# SPD-Wahlplakat
+# SPG-Wahlplakat
 ----------------
 
 - [ ] Klimafreundlichkeit/Klimaneutralität
