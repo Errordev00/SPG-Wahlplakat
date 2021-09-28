@@ -3,7 +3,7 @@
 
 
 
-# Klima
+## Klima
 
 - [ ] Klimafreundlichkeit/Klimaneutralität
 - [ ] Weniger Verbrennungsmotoren
@@ -12,13 +12,13 @@
 ---------------------------------------------------------------------------------
 
 
-# Bildung
+## Bildung
 
 - [ ] Schulen und KiTas reformieren
 - [ ] Mehr Geld in Schulen und KiTas investieren
 -------------------------------------------------
 
 
-# Telekommunikation
+## Telekommunikation
 - [ ] Glasfasernetz ausbauen 
 - [ ] Bestehende Lücken  in der Mobilfunkversorgung und beim mobilen Internet schließen
