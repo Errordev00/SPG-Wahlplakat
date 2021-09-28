@@ -1,6 +1,6 @@
 # SPD-Wahlplakat
 ----------------
 
-- [ ] 
+- [ ] Klimafreundlichkeit/Klimaneutralität
 - [ ] 
 - [ ] 
